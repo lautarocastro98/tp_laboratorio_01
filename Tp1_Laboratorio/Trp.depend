@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473219487 source:c:\users\lautaro\desktop\tp1\trp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesTrp.h"
+
+1473216987 source:c:\users\lautaro\desktop\tp1\trp\funcionestrp.c
+
+1473216987 c:\users\lautaro\desktop\tp1\trp\funcionestrp.h
+
